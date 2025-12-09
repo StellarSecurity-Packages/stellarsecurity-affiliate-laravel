@@ -3,7 +3,6 @@
 namespace StellarSecurity\AffiliateLaravel;
 
 use GuzzleHttp\Client;
-
 class AffiliateClient
 {
     /**
